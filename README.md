@@ -1,0 +1,2 @@
+# CountPrime
+Counting prime numbers
